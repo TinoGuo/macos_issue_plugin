@@ -1,0 +1,23 @@
+PODS:
+  - FlutterMacOS (1.17.0)
+  - hello (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - hello (from `Flutter/ephemeral/.symlinks/plugins/hello/macos`)
+
+SPEC REPOS:
+  trunk:
+    - FlutterMacOS
+
+EXTERNAL SOURCES:
+  hello:
+    :path: Flutter/ephemeral/.symlinks/plugins/hello/macos
+
+SPEC CHECKSUMS:
+  FlutterMacOS: 9145f878fe30120d1689f02a6f0d26be641a93f7
+  hello: 4f947b4770400a7c2ef750544f7fb3ee55588430
+
+PODFILE CHECKSUM: d8ba9b3e9e93c62c74a660b46c6fcb09f03991a7
+
+COCOAPODS: 1.10.0
